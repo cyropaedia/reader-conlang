@@ -1,0 +1,9 @@
+
+# NOUNS
+Cases, nom gen dat acc
+Numbers, Sing Plur
+
+# VERBS
+Aspects, aor imp per
+Moods, ind opt irr
+Pro-drop in continuous speech
