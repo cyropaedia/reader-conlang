@@ -6,16 +6,16 @@ suph
 sphus
 ron
 phrukh
-hin
-tlim
+#hin
+#tlim
 lol
 tlip
-tham
+#tham
 khath
 kup
 nom
 phas
-sal
+#sal
 skhen
 trok
 mis
@@ -44,7 +44,7 @@ spot
 sukh
 krith
 nal
-naph
+#naph
 phrel
 pak
 stut
@@ -114,7 +114,7 @@ lep
 kor
 phun
 men
-sul
+#sul
 slol
 then
 khon
@@ -127,7 +127,7 @@ moth
 tril
 slum
 thrak
-lap
+#lap
 slop
 thrath
 mat
@@ -242,7 +242,7 @@ trep
 lan
 sthun
 sphir
-khes
+#khes
 sles
 mon
 prir
@@ -542,7 +542,7 @@ spil
 ket
 met
 snen
-tas
+#tas
 thrim
 khren
 plak
@@ -946,7 +946,7 @@ tres
 steph
 skhuph
 plekh
-khan
+#khan
 hal
 phith
 sthel
