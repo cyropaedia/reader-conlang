@@ -5,5 +5,6 @@ Numbers, Sing Plur
 
 # VERBS
 Aspects, aor imp per
+Voices, act pas
 Moods, ind opt irr
 Pro-drop in continuous speech
