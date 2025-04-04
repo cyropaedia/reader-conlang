@@ -2,15 +2,26 @@
 
 ## NOUNS
 
-### BASIC NOUN (Consonant Stem)
+### ANIMATE NOUN 
 Nom  ē
 Acc  es
 Gen  iel
-Dat  aī
+Dat  eī
+
+Nom  er
+Acc  en
+Gen  eson
+Dat  eū
+
+### INANIMATE NOUN
+Nom  ā
+Acc  os
+Gen  iel
+Dat  oī
 
 Nom  or
-Acc  an
-Gen  eson
+Acc  on
+Gen  oson
 Dat  aū
 
 ## VERBS
