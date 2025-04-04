@@ -1,1 +1,33 @@
 # MORPHOLOGY
+
+## NOUNS
+
+### BASIC NOUN (Consonant Stem)
+Nom  ē
+Acc  es
+Gen  iel
+Dat  aī
+
+Nom  or
+Acc  an
+Gen  eson
+Dat  aū
+
+## VERBS
+
+### BASIC VERB (Consonant Stem)
+AOR (Primary)
+Ind  as
+Opt  erū
+
+Ind  asi(n)
+Opt  esi(n)
+
+IMP (Secondary)
+Ind  amī
+Irr  orū
+
+Ind  amisi(n)
+Irr  osi(n)
+
+PERF via S-infix + Secondary
