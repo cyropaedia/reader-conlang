@@ -74,7 +74,7 @@ khrath
 plith
 thros
 krek
-set
+#set
 tlol
 khrot
 thas
@@ -169,7 +169,7 @@ sphuth
 nel
 plek
 man
-rit
+#rit
 khekh
 lon
 spoth
@@ -308,7 +308,7 @@ tluph
 rip
 slakh
 klath
-rum
+#rum
 kap
 thrir
 theth
@@ -325,10 +325,10 @@ tor
 khur
 klop
 mluth
-skhit
+#skhit
 khem
 rok
-mlun
+#mlun
 skher
 mlut
 phrep
@@ -348,7 +348,7 @@ thrik
 tron
 rith
 hup
-mlet
+#mlet
 tlap
 mol
 mlak
@@ -372,7 +372,7 @@ tram
 pith
 plom
 tlat
-tel
+#tel
 spen
 krokh
 phrop
