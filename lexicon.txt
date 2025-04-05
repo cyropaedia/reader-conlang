@@ -1,6 +1,8 @@
 # LEXICON
 *hin, to be
 hinasī(n), hinsamisī(n), to be (*hin)
+*ka, and
+kā, and
 *khan, hill
 khānā, hill, (*khan)
 khānē, hillfolk, (*khan)
@@ -10,14 +12,26 @@ khesē, khesā, many (*khes)
 lapē, lapā (*lap)
 *lar, no, not
 lā, lar, larī, no, not
+*mlet, earth
+mlētā, earth, soil
+*mlun, to flow
+mlūnē, river
 *naph, to turn
 nāphā, star (*naph)
+*rit, below
+ritī, below (*rit)
+*rum, valley
+rūmā, valley (*rum)
 *sal, in, at, on
 salī, in, at, on (*sal)
+*set, above, on top of
+setī, above (*set)
 *sul, moon, month
 sūlē, moon (*sul)
 *tas, but, however
 tās, but
+*tes, sea, lake
+tēsā, sea (*tes)
 *tham, to shine
 thāmē, the sun (*tham)
 *tlim, heaven
